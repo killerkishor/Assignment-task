@@ -132,6 +132,9 @@ body {
 .next:focus {
 	outline: none;
 }
+#error {
+  color: red;
+}
 
 
 
